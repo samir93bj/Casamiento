@@ -1,4 +1,10 @@
 
+// Asistencia parallax
+$('.asistencia-confirm').parallax({
+  imageSrc: 'assets/img/galeria/table.jpg'
+
+});
+
 // Instagram parallax
 $('.parallax-instagram').parallax({
   imageSrc: 'assets/img/galeria/instagram.jpg'
@@ -51,3 +57,4 @@ var x = setInterval(function () {
 // ----------------------
 
 
+ 
