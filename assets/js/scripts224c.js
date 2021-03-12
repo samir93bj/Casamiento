@@ -1,4 +1,9 @@
 
+// Instagram parallax
+$('.parallax-instagram').parallax({
+  imageSrc: 'assets/img/galeria/instagram.jpg'
+
+});
 
 // Portada parallax
 $('.parallax-portada').parallax({
