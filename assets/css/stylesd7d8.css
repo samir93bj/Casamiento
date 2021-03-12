@@ -1,6 +1,6 @@
 /* Generales */
 
-:root {
+:root { 
   --color-primario: #D7B7A2;
 }
 
@@ -424,6 +424,37 @@ section.canciones p{
 
 /* ---------- */
 
+
+/* INSTAGRAM */
+
+section.instagram{
+  text-align: center;
+  color: white;
+  height: 500px;
+}
+
+section.instagram .contenido{
+  padding: 50px 10px;
+}
+
+section.instagram span.hashtag{
+  font-size: 40px;
+  color: white;
+  font-weight: 400;
+  margin-top: 100px;
+}
+
+section.instagram p{
+  font-size: 17px;
+  font-weight: 300;
+  color: white;
+  margin-top: 20px;
+  margin-bottom:30px;
+}
+
+
+
+/* ---------- */
 
 /* GRACIAS */
 
