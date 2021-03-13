@@ -1,7 +1,10 @@
 /* Generales */
 
 :root { 
-  --color-primario: #D7B7A2;
+  /* --color-primario: #D7B7A2; */
+  /* --color-primario: #c57fa0; */
+  /*  --color-primario: #658685;*/
+  --color-primario: #658685;
 }
 
 body{
@@ -175,19 +178,19 @@ section.cuenta-regresiva{
   text-align: center;
   padding-top: 25px;
   background-color:var(--color-primario);
-  height: 130px;
+  height: 180px;
 }
 
 section.cuenta-regresiva p{
   color: white;
-  font-size: 25px;
+  font-size: 30px;
   margin: 0;
 }
 
 
 #reloj{
   text-align: center;
-  font-size: 25px;
+  font-size: 30px;
   margin-bottom: 0;
 }
 
@@ -344,7 +347,7 @@ section.confirmar-asistencia p{
 section.protocolo{
   text-align: center;
   padding: 100px 10px 100px 10px;
-  background-color:var(--color-primario);
+  /*background-color:var(--color-primario);*/
 }
 
 section.protocolo h4 {
@@ -352,7 +355,8 @@ section.protocolo h4 {
     font-size: 25px;
     text-align: center;
     margin-bottom: 25px;
-    color: white;
+    /*color: white;*/
+    
 }
 
 section.protocolo img.icon{
@@ -360,7 +364,7 @@ section.protocolo img.icon{
 }
 
 section.protocolo p{
-  color: white;
+  /*color: white;*/
   font-size: 20px;
   font-weight: 300;
 }
@@ -461,7 +465,8 @@ section.instagram p{
 section.gracias{
   text-align: center;
   padding: 50px 0;
-  background-color: #666;
+  /*background-color: #666;*/
+  background-color: var(--color-primario);
 }
 
 section.gracias p{
@@ -502,7 +507,8 @@ section.menu-footer ul a:hover{
 section.footer{
   text-align: center;
   padding: 16px 0;
-  background-color: #666;
+  /*background-color: #666;*/
+  background-color: var(--color-primario);
 }
 
 section.footer p{
