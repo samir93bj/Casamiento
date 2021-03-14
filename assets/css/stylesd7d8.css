@@ -244,8 +244,13 @@ section.galeria h4{
   font-weight: 700;
   font-size: 30px;
   text-align: center;
-  margin-bottom: 60px;
 }
+
+section.galeria p{
+  margin-bottom: 60px;
+  font-size: 20px;
+}
+
 section.galeria .item-galeria{
   padding: 0 3px;
   margin-bottom: 5px;
